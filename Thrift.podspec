@@ -14,11 +14,11 @@ Pod::Spec.new do |s|
                     * Markdown format.
                     * Don't worry about the indent, we strip it!
                    DESC
-  s.homepage     = "http://EXAMPLE/NAME"
+  #s.homepage     = "http://EXAMPLE/NAME"
   s.screenshots  = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license      = 'MIT'
   s.author       = { "Kelton Person" => "kelton.person@gmail.com" }
-  s.source       = { :git => "http://EXAMPLE/NAME.git", :tag => s.version.to_s }
+  #s.source       = { :git => "http://EXAMPLE/NAME.git", :tag => s.version.to_s }
 
   s.requires_arc = false
 
