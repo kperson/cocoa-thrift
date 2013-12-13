@@ -1,7 +1,3 @@
 pod "Thrift", :path => "../"
 
-target "Demo" do
-end
-
-target "DemoTests" do
-end
+podspec :path => "../NAME.podspec"
