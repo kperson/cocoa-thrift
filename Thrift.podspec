@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/kperson/cocoa-thrift"
   s.license      = 'MIT'
   s.author       = { "Kelton Person" => "kelton.person@gmail.com" }
-  s.source       = { :git => "git@github.com:kperson/cocoa-thrift.git", :tag => s.version.to_s }
+  s.source       = { :git => "https://github.com/kperson/cocoa-thrift.git", :tag => s.version.to_s }
 
   s.requires_arc = false
 
